@@ -12,6 +12,8 @@ POST http://localhost:9191/register
 
 Success!  Please, check your email for to complete your registration
 
+
+
 GET http://localhost:9191/users
 
 [
